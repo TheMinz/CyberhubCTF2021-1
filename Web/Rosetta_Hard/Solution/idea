@@ -1,0 +1,9 @@
+### CHALLENGE WRITEUP
+
+
+#FLag: CYBERHUB{45C11_D3F34T5_B4D_CH4R4CT3R5}
+the idea is that you need to base64 encode a gzip deflated file name. but the gzip deflated string has to be alphanumeric. using the script in the following github reporsitory https://github.com/molnarg/ascii-zip you can gzip deflate any string to get alphanumeric numbers
+
+
+
+the solution is index.php?10=RDBVcDBJWlVubm5ubm5ubm5ubm5ubm5ubm5uVVU1bm5ubm5uM1NVVW5VVVV3Q2l1ZEliRUF0MzMzM3d3RTAzM0dEREdEdHdEdDMzMzMzd3d3MDMzMzMzc0RmQkRzV29nNw==

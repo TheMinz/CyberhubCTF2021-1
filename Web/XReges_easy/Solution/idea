@@ -1,0 +1,16 @@
+### Challenge writeup 
+
+
+#Flag: CYBERHUB{Y0u_4R3_Th3_K!ng_0F_R3g3x}
+
+by reading the source code , you will need to send a GET parameter called `key` 
+
+and its value must match the pattern in the code , 
+
+[4-7] -> number between 4 to 7
+[s-z]{4} -> 4 letters between s to z 
+_ -> `_`
+.* -> .* accepts any sequence of characters, including an empty string.
+$_SERVER[REMOTE_ADDR] -> accept your public IP .
+\tc\ty\tb\te\tr\th\tu\tb/ -> \t mean a (tab) ->`	c	y	b	e	r	h	u	b`
+so you just to send `?key=5tuvw_yourIP	c	y	b	e	r	h	u	b`

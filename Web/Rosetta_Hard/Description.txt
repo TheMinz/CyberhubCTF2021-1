@@ -1,0 +1,4 @@
+#name:Rosetta
+#Description: Every letter has a purpose, if you're not sure, ask the stone. flag is in /flag
+#remote-server: http://qvu2n9gn.at-tech.xyz
+

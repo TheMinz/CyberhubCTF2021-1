@@ -1,0 +1,5 @@
+#Name: SQLagain
+#Level: 3 
+#Subject: SQLi
+#Description: make your own (role)
+#remote-server:http://2qgigcen.at-tech.xyz/
