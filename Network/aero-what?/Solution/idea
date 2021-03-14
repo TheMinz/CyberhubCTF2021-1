@@ -1,0 +1,14 @@
+### CHALLENGE WRITEUP
+
+
+#FLag: CYBERHUB{hellokitty}
+
+the idea behind this challenge is to crack the wifi password in the network dump
+
+first, the capture file has to be changed to hccapx file using https://hashcat.net/cap2hccapx/
+
+then you can crack the hccapx file using hashcat with and rockyou wordlist with the following command
+
+hashcat -a 0 -m 2500 capture.hccapx rockyou.txt
+
+and you will get the password which is hellokitty

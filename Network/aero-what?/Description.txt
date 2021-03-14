@@ -1,0 +1,4 @@
+Name: aero-what?
+Category: Network Forensics
+Level: Easy
+Desription: We have deployed our new wifi network, but for some reason it keeps getting hacked. NOTE: Flag format is CYBERHUB{password}
