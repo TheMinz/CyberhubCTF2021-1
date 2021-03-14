@@ -1,0 +1,3 @@
+flag: cyberhub{encoding_is_malicious}
+writeup
+find the dns quiery to www.Y3liZXJodWJ7ZW5jb2RpbmdfaXNfbWFsaWNpb3VzfQ==.com and decode the base64 flag 

@@ -1,0 +1,3 @@
+writeup
+Analyze the packets and follow the llmnr to extract the flag 
+flag: CYBERHUB{n3tp0i50n}

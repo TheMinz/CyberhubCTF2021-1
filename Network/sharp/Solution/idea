@@ -1,0 +1,3 @@
+writeup
+follow the http stream for vulnweb.com and fine the flag in the password field as clear text 
+flag: cyberhub{try_hard_and_l00k_sh4rp}
