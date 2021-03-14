@@ -1,0 +1,7 @@
+
+flag:cyberhub{750299-260277-467248}
+
+solution:
+
+foremost or binwalk tool to extract embbeded data the open doc file and unmask the flag
+

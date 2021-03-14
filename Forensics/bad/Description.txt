@@ -1,0 +1,6 @@
+name:bad
+desc:this is not organized at all, can you help me to understand the meaning of this!
+difficulty: Easy
+points: 50
+Subject : Forensics
+

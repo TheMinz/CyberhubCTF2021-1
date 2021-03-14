@@ -1,0 +1,7 @@
+name:super power
+flag:cyberhub{d82f48deee5efaddbd5fae5fc04d3e9d}
+desc:i need to find my stando , i need to fix him , i need to undersand him , can you help me ??  btw its number 6 or 7 and you may need a script to fix it .
+difficulty: med 
+points: med
+time to solve : 60 minutes
+Subject : df  , jpeg markers  .

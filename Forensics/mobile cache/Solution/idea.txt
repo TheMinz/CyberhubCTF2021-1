@@ -1,0 +1,11 @@
+the flag was written character by character , and eash one has a number from 1 - 25 ( 5 not found ) , eash character was deleted once its written  .
+
+note the word "cyberhub" is written before each character
+
+use strings and grep the number of characher 
+
+use 
+
+strings file_name | grep cyberhub | grep ' 1 '
+
+flag:cyberhub{cl34r_c4ChE_plZ}

@@ -1,0 +1,5 @@
+solution:
+
+fix the magic byte to match a png file then you will got the flag
+
+flag:cyberhub{a11_cl3ar_n0w}

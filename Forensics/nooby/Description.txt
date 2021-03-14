@@ -1,0 +1,6 @@
+name:nooby
+desc:It’s better to understand the structure of the files
+difficulty: Easy
+points: 50
+time to solve : 15 minutes
+Subject : Forensics,stegno

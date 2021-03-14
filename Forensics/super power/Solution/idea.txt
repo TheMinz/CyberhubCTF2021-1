@@ -1,0 +1,16 @@
+in the jpg sof marker (ff c0) some valuses had been change , so the data represintation on the screen had been changed but the imahe data stell in the meta data , you only should changet the data rep info 
+
+to solve : 
+
+(you may need to write a script). 
+
+search for the header ( marker ) : ff c0  << by any hex editor . 
+
+
+you can find 16 byte if you don't know which one is respinsple for this change you can try to change all the 16 byte one by one . 
+
+search for '1E' in those 16 byte , change it to 'E0' 
+
+note : photoshop can't help on this challenege , you can fix a part to get the full image the use the photoshop to fix the output , or just fix the marker corectly . 
+
+flag:cyberhub{d82f48deee5efaddbd5fae5fc04d3e9d}
