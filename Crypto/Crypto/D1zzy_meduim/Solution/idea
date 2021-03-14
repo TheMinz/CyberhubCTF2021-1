@@ -1,0 +1,1 @@
+Summary: In this challenge you are given two files the Challenge.py and Flag the challenge.py take each char and hash it using diffrent hashing algorithms then save the hashes to the flag file so to solve this challenge you have to write a script the generate all the possible hashes and compare the known hashed with the hashes in the flag file.

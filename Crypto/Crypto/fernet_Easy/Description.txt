@@ -1,0 +1,6 @@
+Challenge name: furnit
+Level: Easy
+Description:Every thing is connected.
+Summary: From the name we can notice that the encryption used here is fernet and we have the cipher and the key.
+
+Flag: CYBERHUB{M4yb3_1_G1v3d_y0u_m0r3_1nf0rm4t10n_th4n_wh4t_1_sh0uLd}

@@ -1,0 +1,7 @@
+Summary: This challenge is all about dsa check it here https://en.wikipedia.org/wiki/Digital_Signature_Algorithm to solve the challenge you have to do some mathmetical operations.
+As we know the signed message equal : s= (k^-1 (H(m)+xr))%q
+So we have one equation with one unknown varaiable so all we have to do is make the x (our private key in term and all the known variables in the other term)
+s * k = (H(m)+xr) %q
+s * k -H(m)=xr %q
+x = r^-1 ((s* k)- H(m)) %q
+Flag: CYBERHUB{313337_K3y}
