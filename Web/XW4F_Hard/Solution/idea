@@ -1,0 +1,11 @@
+### CHALLENGE WRITEUP
+
+#Subject: RCE , preg_match bypass
+#FLag: CYBERHUB{0H_G0d_I_H4t3_pr3GM4tCh_&_R3g3x_!!}
+#HOST-NOTE: you must put `flag` file in `/`  so the player can cat it , update `solve.py` with challenge URL before running the script 
+
+PHP has pcre.backtrack_limit, and the value of it is 1000000 by default.
+When the regex matching backtrack more than 1000000 times, the preg_match will return false directly.
+(Detail: https://www.php.net/manual/en/pcre.configuration.php)
+
+- quick solution : run `solve.py` to send a post request with padding to break preg_match and get the flag

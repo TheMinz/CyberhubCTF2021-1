@@ -1,0 +1,14 @@
+
+### Challenge Writeup
+#Subject: LFI
+#Flag : CYBERHUB{4_Pi3ac3_0f_c4k3_wo0Ow}
+
+by clicking on one of the links you will notice it takes the base64 of the file name to include it .
+
+so you just need to send the base64 of `index.php` to read the source code .
+
+send `?file=aW5kZXgucGhw`
+
+and check the page source , you will see the flag
+
+
