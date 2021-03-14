@@ -1,0 +1,8 @@
+name:level-0
+desc:We have developed a VERY SECURE application, its unhackable. You can't get a shell out of it. (ASLR is disabled on the host machine)
+difficulty: hard
+points: 300
+Subject : pwn
+remote server: p5l61ygn.at-tech.xyz:31337
+
+

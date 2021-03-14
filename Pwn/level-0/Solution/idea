@@ -1,0 +1,7 @@
+This is a simple buffer overflow excercise with some bad characters.
+
+one of the bad characters is "A" which makes finding the offset of eip quite tricky
+
+other than that, the rest is simple
+
+flag:CYBERHUB{W3lc0m3_to_0x41414141}

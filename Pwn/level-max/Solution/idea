@@ -1,0 +1,7 @@
+This is buffer overflow vulnerability in a 64-bit application with ASLR and NX enabled
+
+which means that the best approach is to based on ROP (return oriatned programming)
+
+simply leaking the address of any libc function and calcualting the addresses to the system function does the trick
+
+

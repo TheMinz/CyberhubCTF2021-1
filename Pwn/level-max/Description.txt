@@ -1,0 +1,6 @@
+name:level-max
+desc:Ok ok, we decided to make more secure application. can you pwn me now? ASLR is enabled on the host machine
+difficulty: hard
+points: 400
+Subject : pwn
+remote server: hjaducen.at-tech.xyz:31337
