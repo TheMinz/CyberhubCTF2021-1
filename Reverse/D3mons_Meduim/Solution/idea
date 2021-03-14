@@ -1,0 +1,3 @@
+Summary: In this challenge you will be given an exe file which contain a function that checks the secret key,Checking the file we can notice that the secret length will be 26 and there is a pattern as it takes for example the secret[0] and xor it with the next 5 secret chars then compare the result with a constant value, As we can see we have 26 chars and each char can have 62 value so it would be impossible to brute force the solution in a regular computer ,So to solve this challenge you will have to use SMT solver like Z3 which can solve this challenge.
+
+Flag: CYBERHUB{_N0_Wh3r3_t0_h1d3_fr0m_m3_}

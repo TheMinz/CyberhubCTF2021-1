@@ -1,0 +1,4 @@
+Challenge name: 5huf113
+Level: easy
+Challenge Description: We have just released first version of our super secure encryption technique,Can you break it ?
+

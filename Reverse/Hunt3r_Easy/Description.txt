@@ -1,0 +1,3 @@
+Challenge name: Hunt3r
+Level: Easy
+Challenge Description: Time for some free points.

@@ -1,0 +1,6 @@
+Summary: In this challenge you are given two files the executable and encrypted flag file , The encryption algorithm used here is RC4 which a common encryption algorithm,with key 3asy + 5 numeric random numbers. The encryption algorithm should be known from Key-scheduling algorithm function which is used to initialize the permutation in the array.
+KEY: 3asy12009
+Decrypted Flag file: “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”
+CYBERHUB{Wh4t_4r3_y0u_w1LL1ng_t0_L0s3?}
+
+Flag: CYBERHUB{Wh4t_4r3_y0u_w1LL1ng_t0_L0s3?}

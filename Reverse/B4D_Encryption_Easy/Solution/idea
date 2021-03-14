@@ -1,0 +1,3 @@
+Summary: A simple python script which xor the input with fixed values then split the encrypted data ento 5 parts and shuffle it,So to recover the flag you have to generate all the possible permutaion of the encrypted flag then xor it with the constant values.
+
+Flag: CYBERHUB{1_D0nt_th1nk_th1s_w4s_s3cur3!!}

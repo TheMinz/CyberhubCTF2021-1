@@ -1,0 +1,4 @@
+Challenge name: D3mons
+Level: Meduim
+Challenge Description: Time to use your powers to reveal the demons secret,Only [A-Z,a-z,0-9,_] are allowed and flag format CYBERHUB{Secret}.
+
