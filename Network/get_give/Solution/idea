@@ -1,0 +1,15 @@
+pcap file only have ( http , arp , icmp , dns ) 
+
+when you follow the icmp , youll find a chat at first few packets between 50.50.55.55 and 50.50.44.44 , talking about sending some secret , and used the number 400 in werd way on the chat . 
+
+searching on the next icmp packets , you can find some of them has  400 < lenght < 500 
+iff you open one of the , you can find the lenght of the load is 400 
+
+use a scrypt and collect all the load with lenght 400 and save it to a file to get the flag . 
+
+
+###################################################################################################3
+
+solve.py is a attached . 
+
+flag:cyberhub{de86081df3e57ae3de6a06a075ccf2c9}

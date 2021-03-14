@@ -1,0 +1,6 @@
+name:get give
+desc:if you have give . 
+difficulty: med
+points: med
+time to solve : 60 minutes
+Subject : df  , network   .
