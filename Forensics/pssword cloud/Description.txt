@@ -1,8 +1,0 @@
-name:password cloud
-
-desc:our new history teacher had volunteered to be the IT head of our school , he encrypted all the important fiels on the system , each file has its own key , today i could enter his room and i found a secret on his desktop , i couldent open it , it was encrypted , so i take this dump from the system , also i saw a biiiiiiiiig image of him and there were many messages one it , like im Osent master , i love google , internet explorer will always be the best , can you pleas help your bad bestfrind to decrypt this secret . 
-
-difficulty: hard 
-points: hard
-time to solve : 1 H 
-Subject :  forensics , memory , browser    .

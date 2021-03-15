@@ -1,6 +1,6 @@
 win xp memory dump 
 
-1 - list processes you find winrar , entrnet exploler and notepad 
+1 - list processes you find winrar , intrnet exploler and notepad 
 
 
 2 - cmdline to find the files used by winrar and notepad 
